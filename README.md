@@ -1,2 +1,2 @@
 # LuizaCode
-Exercícios do curso Luiza Code  
+Exercícios do curso LuizaCode
